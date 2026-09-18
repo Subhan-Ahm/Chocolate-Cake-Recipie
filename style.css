@@ -1,0 +1,53 @@
+h1{
+    font-family: "Pacifico", cursive;
+  font-weight: 400;
+  font-style: normal;
+  text-align: center;
+  text-transform: uppercase;
+  color: rgba(56, 83, 102, 1);
+  font-size: 50px;
+}
+body{
+    background-image: url("istockphoto-1126080328-612x612.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+img src{
+    width: 100%;
+    height: auto;
+}
+p{
+    font-family: "Molle", cursive;
+  font-weight: 400;
+  font-style: italic;
+  text-align: center;
+  font-size: 36px;
+}
+#ingredients{
+    font-family: "Molle", cursive;
+  font-weight: 400;
+  font-style: italic;
+  font-size: 40px;
+}
+#procedure{
+    font-family: "Molle", cursive;
+  font-weight: 400;
+  font-style: italic;
+  font-size: 40px;
+}
+#ingredients-list{
+   font-family: "Updock", cursive;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 20px;
+}
+#procedure-list{
+   font-family: "Updock", cursive;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 20px;
+}
+favicon{
+    imgsrc: url("favicon.svg");
+}
